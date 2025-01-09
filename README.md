@@ -2,8 +2,8 @@
 易固apk加固软件
 
 包名:ck.cpp
-文件大小:10.58M
-MD5:6bb3186228a28faea1cedbd18d169b71
+文件大小:8.76M
+MD5:ca0d0d72ccc8669c4f8da2efea5a9cb5
 
 
 提供免费高强度保护防止逆向保护代码安全！
